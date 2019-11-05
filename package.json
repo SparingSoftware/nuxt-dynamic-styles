@@ -1,0 +1,26 @@
+{
+  "name": "@sparing-software/nuxt-dynamic-styles-module",
+  "version": "1.0.0",
+  "description": "Nuxt.js module for on-build dynamic styles import",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparingSoftware/nuxt-dynamic-styles-module.git"
+  },
+  "keywords": [
+    "Nuxt",
+    "module",
+    "dynamic",
+    "styles",
+    "scss"
+  ],
+  "author": "SparingSoftware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SparingSoftware/nuxt-dynamic-styles-module/issues"
+  },
+  "homepage": "https://github.com/SparingSoftware/nuxt-dynamic-style-modules#readme"
+}
